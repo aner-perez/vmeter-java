@@ -1,0 +1,1 @@
+/usr/java/latest/bin/java -cp build net.mi_bohio.vmeter.VMeterCPU --midi 2

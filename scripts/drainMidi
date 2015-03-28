@@ -1,0 +1,1 @@
+cat < /dev/midi2 > /dev/null
